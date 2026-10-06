@@ -1,0 +1,22 @@
+{
+  "title": "Fatture: invoicing program for the lira-euro changeover (Visual Basic 6, 2000–2003)",
+  "upload_type": "software",
+  "description": "<p><em>Programma di fatturazione per il passaggio dalla lira all'euro</em></p><p>Fatture (“SE Fatture 2000 Euro”) is a small invoicing program for a professional practice. It manages customers and products, issues invoices with discounts, payment terms, delivery-note and order references and VAT, shows amounts in both lire and euro during the changeover period, and produces statistics by customer, product and month.</p><p>Designed and programmed by Massimo Sbarbaro in 2000–2003 (Visual Basic 6). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Visual Basic 6",
+    "invoicing",
+    "euro changeover",
+    "small business software",
+    "legacy software"
+  ],
+  "version": "2000 Euro",
+  "language": "eng",
+  "notes": "Original development: 2000–2003."
+}
