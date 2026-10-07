@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Fatture: invoicing program for the lira-euro changeover (Visual Basic 6, 2000–2003)"
+title: "Fatture: invoicing program for the lira-euro changeover (2000–2003)"
 version: "2000 Euro"
 abstract: "Fatture (“SE Fatture 2000 Euro”) is a small invoicing program for a professional practice. It manages customers and products, issues invoices with discounts, payment terms, delivery-note and order references and VAT, shows amounts in both lire and euro during the changeover period, and produces statistics by customer, product and month."
 authors:
@@ -9,7 +9,8 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
-repository-code: "https://github.com/massimosbarbaro/invoicing-lira-euro-vb6"
+doi: "10.5281/zenodo.23186711"
+repository-code: "https://github.com/massimosbarbaro/invoicing-lira-euro"
 keywords:
   - "Visual Basic 6"
   - "invoicing"

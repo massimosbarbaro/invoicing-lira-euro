@@ -1,8 +1,10 @@
 # Fatture: invoicing program for the lira-euro changeover
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23186711.svg)](https://doi.org/10.5281/zenodo.23186711)
+
 *Programma di fatturazione per il passaggio dalla lira all'euro*
 
-**Visual Basic 6** · 2000–2003 · version 2000 Euro  
+2000–2003 · version 2000 Euro  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -31,7 +33,7 @@ DAO / Jet 4, Crystal Reports 4.6 (OCX), DBGrid, Masked Edit, Common Controls.
 
 | Path | Content |
 |---|---|
-| `bin/Fatture.exe` | The compiled program (Visual Basic 6, 2003 build). |
+| `bin/Fatture.exe` | The compiled program (2003 build). |
 | `bin/FattureRidotto.mdb` | Empty copy of the program database (structure only). |
 
 ## What is not included
@@ -40,9 +42,9 @@ The source code of this program has not survived; the repository publishes the c
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23186711](https://doi.org/10.5281/zenodo.23186711).
 
-> Sbarbaro, Massimo. *Fatture: invoicing program for the lira-euro changeover (Visual Basic 6, 2000–2003)*. Software, version 2000 Euro. GitHub: https://github.com/massimosbarbaro/invoicing-lira-euro-vb6
+> Sbarbaro, Massimo. 2003. *Fatture: invoicing program for the lira-euro changeover*. Software (2000–2003), version 2000 Euro. Zenodo. https://doi.org/10.5281/zenodo.23186711.
 
 ## License
 
