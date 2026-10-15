@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186711"
 repository-code: "https://github.com/massimosbarbaro/invoicing-lira-euro"
 keywords:
-  - "Visual Basic 6"
   - "invoicing"
   - "euro changeover"
   - "small business software"
