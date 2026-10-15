@@ -23,7 +23,7 @@ I designed and programmed this application in 2000–2003. It is published here 
 
 ## Data
 
-Microsoft Access (Jet 4) database. Tables: `Cliente`, `Prodotto`, `Fattura`, `FatturaDettagli`, `CC`, `Parametri`, `UltimaFattura`, `UltimaRisposta`, `UltimoProdotto`.
+Jet 4 database. Tables: `Cliente`, `Prodotto`, `Fattura`, `FatturaDettagli`, `CC`, `Parametri`, `UltimaFattura`, `UltimaRisposta`, `UltimoProdotto`.
 
 ## Technology
 
